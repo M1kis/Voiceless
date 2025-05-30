@@ -1,8 +1,8 @@
-# 🎮 Proyecto: [Nombre de tu juego]
+# 🎮 Proyecto: VOICELESS
 
 ## Descripción
 
-**[Nombre de tu juego]** es una experiencia de terror y supervivencia en primera persona inspirada en relatos clásicos de ciencia ficción y en la estética surrealista de series como *The Amazing Digital Circus*. El jugador se despierta en un complejo laberíntico controlado por una inteligencia artificial hostil. Atrapado en un entorno opresivo, deberá resolver acertijos, evitar entidades letales y descubrir pistas para sobrevivir y escapar.
+**VOICELESS** es una experiencia de terror y supervivencia en primera persona inspirada en relatos clásicos de ciencia ficción y en la estética surrealista de varias series. El jugador se despierta en un complejo laberíntico controlado por una inteligencia artificial hostil. Atrapado en un entorno opresivo, deberá resolver acertijos, evitar entidades letales y descubrir pistas para sobrevivir y escapar.
 
 El juego combina mecánicas de exploración, sigilo, puzzles y eventos narrativos, incorporando elementos de horror psicológico y referencias a la cultura pop digital. Cada partida ofrece una atmósfera envolvente, repleta de detalles y secretos para los jugadores más curiosos.
 
